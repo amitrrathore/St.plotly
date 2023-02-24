@@ -1,3 +1,5 @@
+import sys
+!{sys.executable} -m pip install matplotlib
 import streamlit as st
 import pandas as pd
 import altair as alt
